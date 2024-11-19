@@ -16,37 +16,36 @@ Git ist ein verteiltes Versionskontrollsystem, das von Linus Torvalds im Jahr 20
 
 ## Wichtige Git-Befehle  
 
-`bash
-# Repository initialisieren
+### Repository initialisieren
 ```
 git init
 ```
 
-# Änderungen hinzufügen
+### Änderungen hinzufügen
 ```
 git add <datei> oder git add .
 ```
 
-# Commit erstellen
+### Commit erstellen
 ```
 git commit -m "Beschreibung der Änderungen"
 ```
-# Änderungen zu einem Remote-Repository hochladen
+### Änderungen zu einem Remote-Repository hochladen
 ```
 git push
 ```
 
-# Änderungen vom Remote-Repository herunterladen
+### Änderungen vom Remote-Repository herunterladen
 ```
 git pull
 ```
 
-# Status des Arbeitsverzeichnisses anzeigen
+### Status des Arbeitsverzeichnisses anzeigen
 ```
 git status
 ````
 
-# Log der letzten Commits anzeigen
+### Log der letzten Commits anzeigen
 ```
 git log
 ```
