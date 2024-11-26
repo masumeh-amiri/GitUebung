@@ -16,6 +16,21 @@ Git ist ein verteiltes Versionskontrollsystem, das von Linus Torvalds im Jahr 20
 
 ## Wichtige Git-Befehle  
 
+| **Befehl**                     | **Beschreibung**                                                                 |
+|---------------------------------|---------------------------------------------------------------------------------|
+| `git init`                     | Erstellt ein neues lokales Git-Repository.                                      |
+| `git clone <URL>`              | Klont ein bestehendes Repository (remote/local) in ein Verzeichnis.             |
+| `git status`                   | Zeigt den Status der Arbeitskopie an (z. B. geänderte Dateien).                 |
+| `git add <Datei>`              | Fügt Änderungen zur Staging-Area hinzu (für den nächsten Commit).               |
+| `git add .`                    | Fügt alle Änderungen im aktuellen Verzeichnis zur Staging-Area hinzu.           |
+| `git commit -m "Nachricht"`    | Speichert die Änderungen in der Historie mit einer Beschreibung.                |
+| `git push`                     | Überträgt Commits aus der lokalen auf die Remote-Branch.                        |
+| `git pull`                     | Holt die neuesten Änderungen aus der Remote-Branch und führt sie zusammen.      |
+| `git log`                      | Zeigt die Commit-Historie an.                                                   |
+
+---
+
+
 ### Repository initialisieren
 ```
 git init
@@ -57,5 +72,21 @@ git log
 -Hier findest du die Dokumentation und hilfreiche Ressourcen.
 
 - [Nützliche Links](links.md) - Eine Sammlung hilfreicher Links zu Git, Markdown und mehr.
+# Review
+
+Dieses Projekt wurde von [Ihr Name] am [Datum] überprüft.
+
+Ich lade dich ein, mein Projekt zu klonen und es zu überprüfen. Du findest es hier:
+[GitHub]()
+
+## Schritte zum Klonen:
+1. Öffne dein Terminal oder Git Bash.
+2. Wechsle zu einem Verzeichnis, in dem du das Projekt speichern möchtest (aber **nicht** in deinem aktuellen Projektordner).
+```
+git clone https://github.com/username/repository.git
+cd repository
+```
+
+
 
 
