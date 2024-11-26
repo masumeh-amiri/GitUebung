@@ -77,13 +77,13 @@ git log
 Dieses Projekt wurde von [Ihr Name] am [Datum] überprüft.
 
 Ich lade dich ein, mein Projekt zu klonen und es zu überprüfen. Du findest es hier:
-[GitHub]()
+[GitHub](https://github.com/masumeh-amiri/GitUebung.git)
 
 ## Schritte zum Klonen:
 1. Öffne dein Terminal oder Git Bash.
 2. Wechsle zu einem Verzeichnis, in dem du das Projekt speichern möchtest (aber **nicht** in deinem aktuellen Projektordner).
 ```
-git clone https://github.com/username/repository.git
+git clone https://github.com/masumeh-amiri/GitUebung.git
 cd repository
 ```
 
