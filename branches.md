@@ -10,6 +10,19 @@ Ein **Branch** (Zweig) in Git ist eine unabhängige Entwicklungsumgebung, die es
 
 ## Arbeiten mit Branches
 
+### **Branching und Zusammenführen**
+| **Befehl**                     | **Beschreibung**                                                                 |
+|---------------------------------|---------------------------------------------------------------------------------|
+| `git branch`                   | Listet alle lokalen Branches auf.                                               |
+| `git branch <branch-name>`     | Erstellt einen neuen Branch.                                                    |
+| `git checkout <branch-name>`   | Wechselt zu einem anderen Branch.                                               |
+| `git switch <branch-name>`     | Alternativer Befehl zum Wechseln zwischen Branches (moderner).                  |
+| `git merge <branch-name>`      | Führt den angegebenen Branch mit dem aktuellen Branch zusammen.                  |
+| `git branch -d <branch-name>`  | Löscht einen lokalen Branch (wenn er zusammengeführt wurde).                    |
+
+---
+
+
 ### 1. Erstellen eines Branches
 
 ```bash
