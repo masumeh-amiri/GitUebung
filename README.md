@@ -54,3 +54,8 @@ git log
 
 - [Branches in Git](branches.md): Eine Beschreibung von Branches und deren Verwendung.
 
+-Hier findest du die Dokumentation und hilfreiche Ressourcen.
+
+- [Nützliche Links](links.md) - Eine Sammlung hilfreicher Links zu Git, Markdown und mehr.
+
+
