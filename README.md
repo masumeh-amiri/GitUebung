@@ -74,7 +74,7 @@ git log
 - [Nützliche Links](links.md) - Eine Sammlung hilfreicher Links zu Git, Markdown und mehr.
 # Review
 
-Dieses Projekt wurde von [Ihr Name] am [Datum] überprüft.
+Dieses Projekt wurde von Jevgenia Schlovic am 26.11.2024 überprüft.
 
 Ich lade dich ein, mein Projekt zu klonen und es zu überprüfen. Du findest es hier:
 [GitHub](https://github.com/masumeh-amiri/GitUebung.git)
