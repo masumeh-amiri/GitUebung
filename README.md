@@ -49,3 +49,8 @@ git status
 ```
 git log
 ```
+
+## Inhalte
+
+- [Branches in Git](branches.md): Eine Beschreibung von Branches und deren Verwendung.
+
